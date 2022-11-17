@@ -14,4 +14,11 @@ Updated the sequencer to be able to slow down and speed up recordings/replay. On
 
 We updated your sequencer to be able to record just the timestamped transitions between input values, and to be able to play data in this format and gave our sequencer the ability to select a range of output rates for both live and recorded input
 
+GIF Normal Motion:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/04_slow_motion/lab4_normal_motion%2000_00_00-00_00_30.gif)<br />
 
+GIF Fast Motion:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/04_slow_motion/lab4_fast_motion%2000_00_00-00_00_30.gif)<br />
+
+GIF Slow Motion:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/04_slow_motion/lab4_slow_motion%2000_00_00-00_00_30.gif)<br />
