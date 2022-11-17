@@ -29,6 +29,10 @@ Next, we used a forever running while loop where we kept all our instrtuctions f
 
 In this code,we defined the i value as well as NUMBER_KEY_PRESS, If 'NUMBER_KEY_PRESS' becomes less than 'i', then by using the register_read() method we read the input coming to QTPY_BOOT_PIN_REG.
 
+GIF:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/03_sequencer/Part-1/sequencer1%2000_00_00-00_00_30.gif)<br />
+
+
 Part-2
 We repeated our first section's actions in our second part. However, we are documenting the boot presses on a specific occasion file in the laptop is text. The recorded sequence was then played out in LED using the values recorded in the text file.
 
@@ -40,6 +44,12 @@ We then opened the file again to read its contents, put the contents in an array
 
 Check to see if this is the initial writing or if the first iteration's blinking is complete. The output from the console is then read.
 
+GIF:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/03_sequencer/Part-2/sequencer2%2000_00_00-00_00_30.gif)<br />
+
 Part-3
 Part 3 is identical to Part 2, except in this case we are reading or playing the recorded sequences in the neopixel dependent on the key strokes on the console.
 Here, pressing "r" initiates recording, and pressing "p" initiates playback of the recorded sequence. It is implemented using an if else statement inside of a while loop that never ends and regulates the Record/Play sequence operations in accordance with the input received.
+
+GIF:
+![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/03_sequencer/Part-3/sequencer3%2000_00_00-00_00_30.gif)<br />
