@@ -11,7 +11,7 @@ In order to record a timestamped trace of an RP2040-ADPS9960 exchange while the 
 Then, using the stemma QT Bus of an ADPS9960 linked to the first QT PY board running the lab 1 Python code, we connected a second QT Py board.
 
 Please find the code in the main directory.<br />
-Gif:<br />
+## Implementation Gif:<br />
 ![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/06_pioscope/part-6.gif)<br />
 
 
