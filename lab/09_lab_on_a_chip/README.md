@@ -11,6 +11,6 @@ Run this experiment in both dark and light room settings (record initial ambient
 Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
 # ANS:<br />
 
-
-GIF of Implementation:<br />
+#### One thing to consider is the red light is on by default because red has the highest intensity.
+### GIF of Implementation:<br />
 ![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/09_lab_on_a_chip/lab_9%2000_00_00-00_00_30.gif)<br />
