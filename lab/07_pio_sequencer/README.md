@@ -11,7 +11,7 @@ We defined our state machines 0 and 1 and used the pio0 instance of our PIO to d
 
 Our PIO was designed to serve as the user's primary search engine and runs at an 8MHz baud rate.</Br>
 
-GIF:</Br>
+Implementation GIF:</Br>
 ![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/07_pio_sequencer/lab7_pio_sequencer%2000_00_00-00_00_30.gif)<br />
 
 
