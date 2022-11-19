@@ -11,7 +11,7 @@ Run this experiment in both dark and light room settings (record initial ambient
 Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
 # ANS:<br />
 So we will be changing the colour and brightness of neopixel led as per the values of color and brigtness detected by APDS9960.<br />
-For this part we will be changing our "main.c" file to add the neopixel functionality.<br />
+For this part we will be changing our "main.c" file to add the neopixel functionality. Moreover, we will add the ws2812.h & ws2812.pio files.<br />
 #### One thing to consider - the red light is on by default because red has the highest intensity.<br />
 ### GIF of Implementation:<br />
 ![alt text](https://github.com/satyajeetburla/ese519-2022-lab2-2B/blob/main/lab/09_lab_on_a_chip/lab_9%2000_00_00-00_00_30.gif)<br />
